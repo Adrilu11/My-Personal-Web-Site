@@ -1,11 +1,4 @@
 /*--Estislos CSS para mi página personal--*/
-@media (max-width: 768px) {
-    .foto-sobre-mi {
-        width: 100%; /* La imagen ocupará todo el ancho disponible */
-        margin-left: 0;
-        margin-top: 20px;
-    }
-}
 body{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
