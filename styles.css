@@ -97,7 +97,7 @@ section{
 .foto-sobre-mi {
     float:inline-start;
     width: 10%; /* Ajusta el tamaño de la imagen */
-    height: 10%; /* Mantiene las proporciones originales */
+    height: auto; /* Mantiene las proporciones originales */
     border: 3px solid #000000; /* Agrega un borde negro */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Agrega sombra */
     margin-right: 2%;
