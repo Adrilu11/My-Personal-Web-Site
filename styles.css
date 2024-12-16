@@ -1,4 +1,8 @@
 /*--Estislos CSS para mi página personal--*/
+html{
+    margin: 2%;
+}
+
 body{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin: 2%;
